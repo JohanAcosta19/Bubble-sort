@@ -10,3 +10,6 @@ function Bubble() {
             }
         }
     }
+    const lista = [76, 89, 63, 976, 8, 826, 5, 812, 11, 47];
+    const sortedArray = Bubble();
+    console.log("La lista ordenada es:", sortedArray);
